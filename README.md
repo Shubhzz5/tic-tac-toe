@@ -1,2 +1,4 @@
 # tic-tac-toe
-Tic-Tac-Toe is a game which is made up with the HTML, CSS and JavaScript.
+Hey! This side Shubham Lingayat,
+    I have made an Tic Tac Toe game using HTML, CSS and JAVASCRIPT hope you like it!
+    To run this game on your computer at first you have to run the index.html file.
